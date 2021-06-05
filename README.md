@@ -1,2 +1,3 @@
-# atm-simulation
-A basic ATM Machine simulation
+# Color Picker
+
+The simplest color picker
